@@ -21,6 +21,7 @@ def purge(a):
 
     return b
     
+    
 def main():
     d={}
     txt=open(raw_input("Insert a file name "))
